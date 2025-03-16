@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "name": "Skyline Industries stand at Industry Showcase 2023",
+    "startDate": "2023-02-18",
+    "endDate": "2023-02-28",
+    "status": "Design Submitted",
+    "venue": {
+      "name": "Innovation Hub D",
+      "city": "Dubai",
+      "country": "UAE",
+      "hall_number": "05",
+      "stand_number": "20",
+      "total_sq_mtr": 1450
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/skyline.jpg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image3.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image8.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "TechCorp stand at Industry Showcase 2023",
+    "startDate": "2023-11-11",
+    "endDate": "2023-11-15",
+    "status": "Project Confirmed",
+    "venue": {
+      "name": "Convention Center A",
+      "city": "New York",
+      "country": "USA",
+      "hall_number": "10",
+      "stand_number": "15",
+      "total_sq_mtr": 1200
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/techcorp.jpeg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image3.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image2.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image8.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "TechCorp stand at Smart Solutions Fair 2022",
+    "startDate": "2022-10-11",
+    "endDate": "2022-10-14",
+    "status": "Pending",
+    "venue": {
+      "name": "Tech Park E",
+      "city": "Singapore",
+      "country": "Singapore",
+      "hall_number": "03",
+      "stand_number": "12",
+      "total_sq_mtr": 800
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/techcorp.jpeg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image10.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image8.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Vertex Technologies stand at Corporate Trade Show 2024",
+    "startDate": "2024-10-10",
+    "endDate": "2024-10-19",
+    "status": "Project Confirmed",
+    "venue": {
+      "name": "Innovation Hub D",
+      "city": "Dubai",
+      "country": "UAE",
+      "hall_number": "05",
+      "stand_number": "20",
+      "total_sq_mtr": 1450
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/vertex.jpg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image7.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image3.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image8.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pioneer Group stand at Corporate Trade Show 2024",
+    "startDate": "2024-12-26",
+    "endDate": "2024-12-31",
+    "status": "Design Submitted",
+    "venue": {
+      "name": "Trade Fair Arena C",
+      "city": "Berlin",
+      "country": "Germany",
+      "hall_number": "07",
+      "stand_number": "18",
+      "total_sq_mtr": 1000
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/pinneer.jpg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image2.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image8.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Vertex Technologies stand at Enterprise Conference 2021",
+    "startDate": "2021-09-14",
+    "endDate": "2021-09-19",
+    "status": "Pending",
+    "venue": {
+      "name": "Convention Center A",
+      "city": "New York",
+      "country": "USA",
+      "hall_number": "10",
+      "stand_number": "15",
+      "total_sq_mtr": 1200
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/vertex.jpg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image2.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image8.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Skyline Industries stand at Digital Transformation Expo 2021",
+    "startDate": "2021-01-11",
+    "endDate": "2021-01-17",
+    "status": "Pending",
+    "venue": {
+      "name": "Innovation Hub D",
+      "city": "Dubai",
+      "country": "UAE",
+      "hall_number": "05",
+      "stand_number": "20",
+      "total_sq_mtr": 1450
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/skyline.jpg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image7.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image5.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image8.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Quantum Solutions stand at Enterprise Conference 2024",
+    "startDate": "2024-08-01",
+    "endDate": "2024-08-08",
+    "status": "Design Submitted",
+    "venue": {
+      "name": "Tech Park E",
+      "city": "Singapore",
+      "country": "Singapore",
+      "hall_number": "03",
+      "stand_number": "12",
+      "total_sq_mtr": 800
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/quantum.jpg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image3.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image2.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Innova Ltd stand at NextGen Exhibition 2021",
+    "startDate": "2021-01-28",
+    "endDate": "2021-02-02",
+    "status": "Project Confirmed",
+    "venue": {
+      "name": "Innovation Hub D",
+      "city": "Dubai",
+      "country": "UAE",
+      "hall_number": "05",
+      "stand_number": "20",
+      "total_sq_mtr": 1450
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/nexGen.jpg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image3.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image8.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "NexGen Systems stand at NextGen Exhibition 2021",
+    "startDate": "2021-04-11",
+    "endDate": "2021-04-19",
+    "status": "Admin Approved",
+    "venue": {
+      "name": "Trade Fair Arena C",
+      "city": "Berlin",
+      "country": "Germany",
+      "hall_number": "07",
+      "stand_number": "18",
+      "total_sq_mtr": 1000
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/nexGen.jpg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image5.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image2.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Fusion Enterprises stand at Industry Showcase 2020",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-18",
+    "status": "Pending",
+    "venue": {
+      "name": "Convention Center A",
+      "city": "New York",
+      "country": "USA",
+      "hall_number": "10",
+      "stand_number": "15",
+      "total_sq_mtr": 1200
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/fusion.jpg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image3.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image8.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "TechCorp stand at NextGen Exhibition 2023",
+    "startDate": "2023-01-15",
+    "endDate": "2023-01-24",
+    "status": "Project Confirmed",
+    "venue": {
+      "name": "Expo Hall B",
+      "city": "Paris",
+      "country": "France",
+      "hall_number": "12",
+      "stand_number": "22",
+      "total_sq_mtr": 1500
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/techcorp.jpeg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image3.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image3.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image2.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image7.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Innova Ltd stand at Innovation Fair 2020",
+    "startDate": "2020-02-08",
+    "endDate": "2020-02-17",
+    "status": "Admin Approved",
+    "venue": {
+      "name": "Convention Center A",
+      "city": "New York",
+      "country": "USA",
+      "hall_number": "10",
+      "stand_number": "15",
+      "total_sq_mtr": 1200
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/img1.jpg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image3.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image8.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Skyline Industries stand at Global Expo 2020",
+    "startDate": "2020-08-28",
+    "endDate": "2020-09-05",
+    "status": "Design Submitted",
+    "venue": {
+      "name": "Convention Center A",
+      "city": "New York",
+      "country": "USA",
+      "hall_number": "10",
+      "stand_number": "15",
+      "total_sq_mtr": 1200
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/skyline.jpg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image3.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image8.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Alpha Dynamics stand at Industry Showcase 2022",
+    "startDate": "2022-10-05",
+    "endDate": "2022-10-13",
+    "status": "Project Confirmed",
+    "venue": {
+      "name": "Expo Hall B",
+      "city": "Paris",
+      "country": "France",
+      "hall_number": "12",
+      "stand_number": "22",
+      "total_sq_mtr": 1500
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/img1.jpg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image3.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image8.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Skyline Industries stand at Digital Transformation Expo 2023",
+    "startDate": "2023-02-09",
+    "endDate": "2023-02-17",
+    "status": "Design Submitted",
+    "venue": {
+      "name": "Expo Hall B",
+      "city": "Paris",
+      "country": "France",
+      "hall_number": "12",
+      "stand_number": "22",
+      "total_sq_mtr": 1500
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/skyline.jpg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image3.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image8.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "TechCorp stand at Digital Transformation Expo 2021",
+    "startDate": "2021-04-27",
+    "endDate": "2021-05-02",
+    "status": "Project Confirmed",
+    "venue": {
+      "name": "Trade Fair Arena C",
+      "city": "Berlin",
+      "country": "Germany",
+      "hall_number": "07",
+      "stand_number": "18",
+      "total_sq_mtr": 1000
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/techcorp.jpeg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image3.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image8.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "NexGen Systems stand at Future Trends Expo 2020",
+    "startDate": "2020-03-21",
+    "endDate": "2020-03-25",
+    "status": "Design Submitted",
+    "venue": {
+      "name": "Tech Park E",
+      "city": "Singapore",
+      "country": "Singapore",
+      "hall_number": "03",
+      "stand_number": "12",
+      "total_sq_mtr": 800
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/nexGen.jpg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image10.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image5.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Vertex Technologies stand at Innovation Fair 2021",
+    "startDate": "2021-02-17",
+    "endDate": "2021-02-21",
+    "status": "Project Confirmed",
+    "venue": {
+      "name": "Trade Fair Arena C",
+      "city": "Berlin",
+      "country": "Germany",
+      "hall_number": "07",
+      "stand_number": "18",
+      "total_sq_mtr": 1000
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/img1.jpg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image8.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image6.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image1.jpg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image4.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image10.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Fusion Enterprises stand at Enterprise Conference 2025",
+    "startDate": "2025-01-21",
+    "endDate": "2025-01-29",
+    "status": "Project Confirmed",
+    "venue": {
+      "name": "Innovation Hub D",
+      "city": "Dubai",
+      "country": "UAE",
+      "hall_number": "05",
+      "stand_number": "20",
+      "total_sq_mtr": 1450
+    },
+    "logo": {
+      "type": "image",
+      "path": "/companyLogo/fusion.jpg"
+    },
+    "images": [
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image9.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image5.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image8.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image2.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image3.jpeg"
+      },
+      {
+        "type": "image",
+        "path": "/exhibition-stand/image5.jpeg"
+      }
+    ]
+  }
+]
