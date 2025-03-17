@@ -67,6 +67,7 @@ This project is a **Next.js + TypeScript** front-end dashboard assignment for th
 ## Author
 👤 **Mohit Raj**  
 GitHub: [@raj20889](https://github.com/raj20889)
+Project Link: (https://zedexel-dashboard-pink.vercel.app/)
 
 ---
 ⭐ **If you like this project, consider giving it a star!** ⭐
