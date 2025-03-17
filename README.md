@@ -57,7 +57,9 @@ This project is a **Next.js + TypeScript** front-end dashboard assignment for th
 ```
 
 ## Screenshots
-*(Add relevant screenshots of your project UI here)*
+![Screenshot 2025-03-17 175916](https://github.com/user-attachments/assets/a72b3337-5ca6-40c3-81a6-a731089422fb)
+
+![Screenshot 2025-03-17 175855](https://github.com/user-attachments/assets/4b63d0d7-22e2-4844-9ab1-46c6e118ed19)
 
 ## Improvements & Future Scope
 - Implement API integration for real-time data
